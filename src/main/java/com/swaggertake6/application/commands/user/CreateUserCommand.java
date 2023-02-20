@@ -1,4 +1,4 @@
-package com.swaggertake6.application.commands;
+package com.swaggertake6.application.commands.user;
 
 import an.awesome.pipelinr.Command;
 import an.awesome.pipelinr.Voidy;

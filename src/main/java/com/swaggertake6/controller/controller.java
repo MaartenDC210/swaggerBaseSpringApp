@@ -2,7 +2,7 @@ package com.swaggertake6.controller;
 
 import an.awesome.pipelinr.Pipeline;
 import an.awesome.pipelinr.Voidy;
-import com.swaggertake6.application.commands.CreateUserCommand;
+import com.swaggertake6.application.commands.user.CreateUserCommand;
 import com.swaggertake6.application.queries.GetUserQuery;
 
 import com.swaggertake6.domain.User;

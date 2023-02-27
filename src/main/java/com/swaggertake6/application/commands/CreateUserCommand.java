@@ -2,6 +2,8 @@ package com.swaggertake6.application.commands;
 
 import an.awesome.pipelinr.Command;
 import an.awesome.pipelinr.Voidy;
+import org.springframework.stereotype.Component;
+
 
 public class CreateUserCommand  implements Command<Voidy> {
     public String name;

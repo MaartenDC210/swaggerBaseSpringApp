@@ -1,4 +1,4 @@
-package com.swaggertake6.domain;
+package com.swaggertake6.Domain;
 
 import javax.persistence.*;
 
